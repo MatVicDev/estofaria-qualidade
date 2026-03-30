@@ -20,7 +20,7 @@ export default function Hero() {
           Reforma completa de bancos, teto e interior automotivo
         </p>
 
-        <a href="#quem-somos" className="bg-red-600 hover:bg-red-700 px-6 py-3 rounded transition">
+        <a href="#contato" className="bg-red-600 hover:bg-red-700 px-6 py-3 rounded transition">
           Solicitar orçamento
         </a>
       </div>
