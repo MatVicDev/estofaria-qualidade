@@ -26,6 +26,8 @@ Projeto de uma landing page moderna e responsiva desenvolvida para uma estofaria
 - Navegação fluida entre seções
 - Deploy contínuo (CI/CD via Vercel)
 
+---
+
 ## 📝 Como rodar o projeto localmente
 
 ### Clone o repositório
