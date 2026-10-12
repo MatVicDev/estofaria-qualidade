@@ -31,7 +31,7 @@ Projeto de uma landing page moderna e responsiva desenvolvida para uma estofaria
 ## 📝 Como rodar o projeto localmente
 
 ### Clone o repositório
-git clone https://github.com/seu-usuario/seu-repo.git
+git clone git clone [https://github.com/seu-usuario/seu-repo.git](https://github.com/MatVicDev/estofaria-qualidade)
 
 ### Acesse a pasta
 cd nome-do-projeto
